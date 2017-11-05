@@ -1,0 +1,4 @@
+* clean up the code
+* improve the input for the gravity-source
+* make it a true n-body simulation (moving to compute-shader or OpenCL)
+* more colors and blending-effects
